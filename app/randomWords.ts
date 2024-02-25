@@ -159,7 +159,7 @@ const eightLetterWords = [
     'velocity',
     'whatever',
     'xenology',
-    'yellowed',
+    'yellow',
     'hijacked',
     'dizziest',
     'exorcize',
